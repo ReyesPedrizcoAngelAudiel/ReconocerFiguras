@@ -1,5 +1,5 @@
 # 📐 Clasificador de Figuras Geométricas
-#### 🐍 | Proyecto sencillo de machine learning con PYTHON.
+#### 🐍 Proyecto sencillo de machine learning con PYTHON.
 > Este proyecto es un clasificador de figuras geométricas basado en un árbol de decisiones. Utiliza preguntas secuenciales para determinar la figura en la que está pensando el usuario, aprovechando estructuras de datos avanzadas y una técnica de aprendizaje incremental para mejorar la clasificación.
 
 #### 🤖 Visualización de codigo funcionando
